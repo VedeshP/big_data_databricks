@@ -1,5 +1,7 @@
 **Note: Currently studying from Azure Databricks documentation - mostly likely matches my project and best docs sturcture and industry alignment - power bi + azure + databricks = very common stack**
 
+transcript extraction code - https://www.kaggle.com/code/vedeshp/transcript-extraction/
+
 [Learning Path](#learning-path)
 [Introduction](#introduction)
 
